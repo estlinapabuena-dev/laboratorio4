@@ -205,3 +205,11 @@ display(df_picos.head())
 •	El análisis espectral resulta útil como herramienta diagnóstica y de monitoreo en electromiografía, permitiendo evaluar objetivamente el estado de fatiga de un músculo.
 
 •	En futuras aplicaciones se recomienda complementar con frecuencia mediana y frecuencia media como métricas más robustas frente a ruido y variabilidad individual.
+
+DIAGRAMA DE FLUJO PARTE A
+<img width="1003" height="1568" alt="ChatGPT Image 24 abr 2026, 10_04_14 a m" src="https://github.com/user-attachments/assets/2386d5f7-1f2a-4afd-9a03-4045a62add22" />
+DIAGRAMA DE FLUJO PARTE B
+<img width="801" height="1964" alt="ChatGPT Image 24 abr 2026, 10_08_10 a m" src="https://github.com/user-attachments/assets/82fda672-842f-4549-9fdb-07cb8491883e" />
+DIAGRAMA DE FLUJO PARTE C
+<img width="1024" height="1535" alt="ChatGPT Image 24 abr 2026, 10_10_52 a m" src="https://github.com/user-attachments/assets/8e002bea-1bae-4db8-8d40-a3f2919ae177" />
+
