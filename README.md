@@ -47,7 +47,8 @@ Los electrodos se colocaron de manera superficial sobre el brazo izquierdo de un
 - Electrodo rojo: sobre la parte proximal del musculo braquiorradial, cerca al codo.
 - Electrodo amarillo: posición distal mas proximal a la muñeca.
 
-  <img width="409" height="600" alt="image" src="https://github.com/user-attachments/assets/d2cce0eb-db82-445f-83fb-528671bf93db" />
+  <img width="1040" height="1513" alt="ChatGPT Image 24 abr 2026, 10_13_48 a m" src="https://github.com/user-attachments/assets/a224eaaa-f076-45eb-87b7-ab5943d7d25a" />
+
 
 
 El antebrazo izquierdo, al ser no dominante, presenta menor entrenamiento motor, lo que puede reflejarse en una menor amplitud de señal y una aparición más lenta de la fatiga. Lo cual en ese momento no teníamos conocimiento, pero es un dato importante para la amplitud de la señal.
